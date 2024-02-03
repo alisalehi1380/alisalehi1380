@@ -4,4 +4,4 @@
 
 #### My Gist
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=41f181838c9b9313f2fea0039e035225&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://gist.github.com/alisalehi1380/41f181838c9b9313f2fea0039e035225)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83b61b63e4ebb07b300a88e5c78e7a93&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://gist.github.com/alisalehi1380/83b61b63e4ebb07b300a88e5c78e7a93)
