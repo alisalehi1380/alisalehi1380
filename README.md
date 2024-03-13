@@ -13,9 +13,6 @@
 
 #### Repoes
 
-<a href="https://github.com/laravel98developer/laravel-hiring-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel98developer&repo=laravel-hiring-projects&title_color=fff&icon_color=ff2c20&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/alisalehi1380/good-projects-for-good-developers" style="margin:5px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisalehi1380&repo=good-projects-for-good-developers&title_color=fff&icon_color=ff2c20&text_color=9f9f9f&bg_color=151515" />
 </a>
