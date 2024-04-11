@@ -21,6 +21,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisalehi1380&repo=province-city-iran-laravel&title_color=fff&icon_color=ff2c20&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+#### PRs on Open Source
+
+[Spatie Holidays](https://github.com/spatie/holidays/pull/146) <br/>
+[Majidh1 JalaliDatePicker](https://github.com/majidh1/JalaliDatePicker/pull/70) <br/>
+[Vuejs Translations Docs](https://github.com/vuejs-translations/docs-fa/pull/177) <br/>
+
 <h4></h4>
 
 [![](https://visitcount.itsvg.in/api?id=alisalehi1380&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
