@@ -2,26 +2,18 @@
 
 [![alisalehi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alisalehi1380&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alisalehi1380)
 
-#### Writings
+### My Lovely Repoes
 
-<a href="https://gist.github.com/alisalehi1380/83b61b63e4ebb07b300a88e5c78e7a93">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=83b61b63e4ebb07b300a88e5c78e7a93&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/alisalehi1380/Key-points-of-clean-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisalehi1380&repo=Key-points-of-clean-code&theme=dark#gh-dark-mode-only" />
-</a>
+ <img alt="good-projects-for-good-developers stars" src="https://img.shields.io/github/stars/alisalehi1380/good-projects-for-good-developers.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/good-projects-for-good-developers?style=flat" /> <a href="https://github.com/alisalehi1380/good-projects-for-good-developers">Good Projects for Good Developers </a>(Collection of instructive Laravel projects)
 
-#### Repoes
+ <img alt="good-projects-for-good-developers stars" src="https://img.shields.io/github/stars/alisalehi1380/province-city-iran-laravel.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/province-city-iran-laravel?style=flat" /> <a href="https://github.com/alisalehi1380/province-city-iran-laravel">Province City Iran Laravel </a>(Province and City of Iran for laravel 🇮🇷)
 
-<a href="https://github.com/alisalehi1380/good-projects-for-good-developers" style="margin:5px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisalehi1380&repo=good-projects-for-good-developers&title_color=fff&icon_color=ff2c20&text_color=9f9f9f&bg_color=151515" />
-</a>
+ <img alt="Key-points-of-clean-code stars" src="https://img.shields.io/github/stars/alisalehi1380/Key-points-of-clean-code.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/Key-points-of-clean-code?style=flat" /> <a href="https://github.com/alisalehi1380/Key-points-of-clean-code">Key Points of Clean Code </a>(نکات کلیدی کتاب کلین کد)
 
-<a href="https://github.com/alisalehi1380/province-city-iran-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisalehi1380&repo=province-city-iran-laravel&title_color=fff&icon_color=ff2c20&text_color=9f9f9f&bg_color=151515" />
-</a>
+### My Laravel Packages
+ <img alt="laravel-lang-files-translator stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-lang-files-translator.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-lang-files-translator?style=flat" /> <img alt="laravel-lang-files-translator downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-lang-files-translator.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-lang-files-translator">Laravel Lang Files Translator</a> (Easiest way to translate lang files to another language in PHP format in Laravel)
 
-#### PRs on Open Source
+### PRs on Open Source
 
 [Spatie Holidays](https://github.com/spatie/holidays/pull/146) <br/>
 [Majidh1 JalaliDatePicker](https://github.com/majidh1/JalaliDatePicker/pull/70) <br/>
