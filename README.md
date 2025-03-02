@@ -2,6 +2,8 @@
 
 [![alisalehi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alisalehi1380&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alisalehi1380)
 
+![Top Repositories Ali Salehi Contributed To](https://github-contributor-stats.vercel.app/api?username=alisalehi1380&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
 ### My Lovely Repoes
 
  <img alt="good-projects-for-good-developers stars" src="https://img.shields.io/github/stars/alisalehi1380/good-projects-for-good-developers.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/good-projects-for-good-developers?style=flat" /> <a href="https://github.com/alisalehi1380/good-projects-for-good-developers">Good Projects for Good Developers </a>(پروژه‌های خوب برای توسعه دهندگان خوب )
