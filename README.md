@@ -20,12 +20,6 @@
 
 <img alt="laravel-task-manager stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-task-manager.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-task-manager?style=flat" /> <img alt="laravel-task-manager downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-task-manager.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-task-manager">Laravel Task Manager</a> (for Manage Tasks in Laravel )
 
-### PRs on Open Source
-
-[Spatie Holidays](https://github.com/spatie/holidays/pull/146) <br/>
-[Majidh1 JalaliDatePicker](https://github.com/majidh1/JalaliDatePicker/pull/70) <br/>
-[Vuejs Translations Docs](https://github.com/vuejs-translations/docs-fa/pull/177) <br/>
-
 <h4></h4>
 
 [![](https://visitcount.itsvg.in/api?id=alisalehi1380&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
