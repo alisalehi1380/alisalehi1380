@@ -18,7 +18,7 @@
 ### My Laravel Packages
  <img alt="laravel-lang-files-translator stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-lang-files-translator.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-lang-files-translator?style=flat" /> <img alt="laravel-lang-files-translator downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-lang-files-translator.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-lang-files-translator">Laravel Lang Files Translator</a> (Easiest way to translate lang files to another language in PHP format in Laravel)
 
-<img alt="laravel-task-manager stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-task-manager.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-task-manager?style=flat" /> <img alt="laravel-task-manager downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-task-manager.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-task-manager">Laravel Task Manager</a> (for Manage Tasks in Laravel )
+<img alt="laravel-task-manager stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-task-manager.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-task-manager?style=flat" /> <img alt="laravel-task-manager downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-task-manager.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-task-manager">Laravel Task Manager</a> (for Manage Tasks in Laravel)
 
 <h4></h4>
 
