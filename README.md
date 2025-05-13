@@ -12,7 +12,7 @@
 
  <img alt="Key-points-of-clean-code stars" src="https://img.shields.io/github/stars/alisalehi1380/Key-points-of-clean-code.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/Key-points-of-clean-code?style=flat" /> <a href="https://github.com/alisalehi1380/Key-points-of-clean-code">Key Points of Clean Code </a>(نکات کلیدی کتاب کلین کد)
 
- <img alt="laravel-persian-errors stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-persian-errors.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-persian-errors?style=flat" /> <a href="https://github.com/alisalehi1380/laravel-persian-errors">Laravel Persian Errors </a>(🇮🇷 متن اررور های لاراول به زبان فارسی)
+ <img alt="laravel-persian-errors stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-persian-errors.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-persian-errors?style=flat" /> <a href="https://github.com/alisalehi1380/laravel-persian-errors">Laravel Persian Errors </a>(متن اررور های لاراول به زبان فارسی)
 
 
 ### My Laravel Packages
