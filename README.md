@@ -16,6 +16,8 @@
 
  <img alt="docker-infera stars" src="https://img.shields.io/github/stars/alisalehi1380/docker-infra.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/docker-infra?style=flat" /> <a href="https://github.com/alisalehi1380/docker-infra">Docker Infrastructure </a>(زیر ساخت داکر برای اپلیکیشن های لاراولی)
 
+[![Prompt Gist Badge](https://img.shields.io/badge/Laravel%20Prompt-Gist-e3b341?style=flat)](https://gist.github.com/alisalehi1380/0ec5da9cdd3d9d6da535c8f05ff0fb6b) <a href="https://gist.github.com/alisalehi1380/0ec5da9cdd3d9d6da535c8f05ff0fb6b">Laravel Code Generation Guidelines Prompt </a>(پرامپت برای جنریت کردن کد های لاراول)
+
 ### My Laravel Packages
  <img alt="laravel-lang-files-translator stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-lang-files-translator.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-lang-files-translator?style=flat" /> <img alt="laravel-lang-files-translator downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-lang-files-translator.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-lang-files-translator">Laravel Lang Files Translator</a> (Easiest way to translate lang files to another language in PHP format in Laravel)
 
