@@ -16,6 +16,8 @@
 
  <img alt="docker-infera stars" src="https://img.shields.io/github/stars/alisalehi1380/docker-infra.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/docker-infra?style=flat" /> <a href="https://github.com/alisalehi1380/docker-infra">Docker Infrastructure </a>(زیر ساخت داکر برای اپلیکیشن های لاراولی)
 
+ <img alt="github-self-hosted-runner stars" src="https://img.shields.io/github/stars/alisalehi1380/github-self-hosted-runner.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/github-self-hosted-runner?style=flat" /> <a href="https://github.com/alisalehi1380/github-self-hosted-runner">Github Self‑Hosted Runner </a>(رانر سلف هاست گیت هاب)
+
 [![Prompt Gist Badge](https://img.shields.io/badge/Laravel%20Prompt-Gist-e3b341?style=flat)](https://gist.github.com/alisalehi1380/0ec5da9cdd3d9d6da535c8f05ff0fb6b) <a href="https://gist.github.com/alisalehi1380/0ec5da9cdd3d9d6da535c8f05ff0fb6b">Laravel Code Generation Guidelines Prompt </a>(پرامپت برای جنریت کردن کد های لاراول)
 
 ### My Laravel Packages
