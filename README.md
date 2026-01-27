@@ -26,21 +26,12 @@
 <img alt="laravel-task-manager stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-task-manager.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-task-manager?style=flat" /> <img alt="laravel-task-manager downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-task-manager.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-task-manager">Laravel Task Manager</a> (for Manage Tasks in Laravel)
 
  <img alt="laravel-lang-files-translator stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-lang-files-translator.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-lang-files-translator?style=flat" /> <img alt="laravel-lang-files-translator downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-lang-files-translator.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-lang-files-translator">Laravel Lang Files Translator</a> (Easiest way to translate lang files to another language in PHP format in Laravel)
-
-
-<div dir="rtl">
  
-## ترجمه‌ها
- 
- #### از اونجایی که دوست دارم روی جامعه تاثیر بزارم و بقیه رو رشد بدم، سعی میکنم مفاهیم فنی رو با زبانی ساده توضیح بدم. اگر میخوای مفاهیم رو ساده یادبگیری یه نگاهی بهشون بنداز 🌱🚀
-<br/>
-<br/>
+### My Translation
  
 <img alt="Key-points-of-clean-code stars" src="https://img.shields.io/github/stars/alisalehi1380/Key-points-of-clean-code.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/Key-points-of-clean-code?style=flat" /> <a href="https://github.com/alisalehi1380/Key-points-of-clean-code">Key Points of Clean Code </a>(نکات کلیدی کتاب کلین کد)
 
 <img alt="github-actions-cheat-sheet stars" src="https://img.shields.io/github/stars/alisalehi1380/github-actions-cheat-sheet.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/github-actions-cheat-sheet?style=flat" /> <a href="https://github.com/alisalehi1380/github-actions-cheat-sheet">GitHub Actions Cheat Sheet </a>(برگهٔ تقلب گیت‌هاب اکشنز)
-
-</div>
 
 <h4></h4>
 
