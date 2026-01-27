@@ -28,14 +28,21 @@
  <img alt="laravel-lang-files-translator stars" src="https://img.shields.io/github/stars/alisalehi1380/laravel-lang-files-translator.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/laravel-lang-files-translator?style=flat" /> <img alt="laravel-lang-files-translator downloads" src="https://img.shields.io/packagist/dt/alisalehi/laravel-lang-files-translator.svg?color=brightgreen"> <a href="https://github.com/alisalehi1380/laravel-lang-files-translator">Laravel Lang Files Translator</a> (Easiest way to translate lang files to another language in PHP format in Laravel)
 
 
- ### My Translation
-  <img alt="Key-points-of-clean-code stars" src="https://img.shields.io/github/stars/alisalehi1380/Key-points-of-clean-code.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/Key-points-of-clean-code?style=flat" /> <a href="https://github.com/alisalehi1380/Key-points-of-clean-code">Key Points of Clean Code </a>(نکات کلیدی کتاب کلین کد)
-
- <img alt="github-actions-cheat-sheet stars" src="https://img.shields.io/github/stars/alisalehi1380/github-actions-cheat-sheet.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/github-actions-cheat-sheet?style=flat" /> <a href="https://github.com/alisalehi1380/github-actions-cheat-sheet">GitHub Actions Cheat Sheet </a>(برگهٔ تقلب گیت‌هاب اکشن‌ها)
+<div dir="rtl">
  
-<h4></h4>
+## ترجمه‌ها
+ 
+ #### از اونجایی که دوست دارم روی جامعه تاثیر بزارم و بقیه رو رشد بدم، سعی میکنم مفاهیم فنی رو با زبانی ساده توضیح بدم. اگر میخوای مفاهیم رو ساده یادبگیری یه نگاهی بهشون بنداز 🌱🚀
+<br/>
+<br/>
+ 
+<img alt="Key-points-of-clean-code stars" src="https://img.shields.io/github/stars/alisalehi1380/Key-points-of-clean-code.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/Key-points-of-clean-code?style=flat" /> <a href="https://github.com/alisalehi1380/Key-points-of-clean-code">Key Points of Clean Code </a>(نکات کلیدی کتاب کلین کد)
 
-[![](https://visitcount.itsvg.in/api?id=alisalehi1380&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<img alt="github-actions-cheat-sheet stars" src="https://img.shields.io/github/stars/alisalehi1380/github-actions-cheat-sheet.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/github-actions-cheat-sheet?style=flat" /> <a href="https://github.com/alisalehi1380/github-actions-cheat-sheet">GitHub Actions Cheat Sheet </a>(برگهٔ تقلب گیت‌هاب اکشن‌ها)
+
+</div>
+
+<h4></h4>
 
 
 [docker-badge]: https://img.shields.io/docker/pulls/alisalehi1380/github-actions
