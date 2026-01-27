@@ -38,7 +38,7 @@
  
 <img alt="Key-points-of-clean-code stars" src="https://img.shields.io/github/stars/alisalehi1380/Key-points-of-clean-code.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/Key-points-of-clean-code?style=flat" /> <a href="https://github.com/alisalehi1380/Key-points-of-clean-code">Key Points of Clean Code </a>(نکات کلیدی کتاب کلین کد)
 
-<img alt="github-actions-cheat-sheet stars" src="https://img.shields.io/github/stars/alisalehi1380/github-actions-cheat-sheet.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/github-actions-cheat-sheet?style=flat" /> <a href="https://github.com/alisalehi1380/github-actions-cheat-sheet">GitHub Actions Cheat Sheet </a>(برگهٔ تقلب گیت‌هاب اکشن‌ها)
+<img alt="github-actions-cheat-sheet stars" src="https://img.shields.io/github/stars/alisalehi1380/github-actions-cheat-sheet.svg?color=e3b341&style=flat"> <img src="https://img.shields.io/github/forks/alisalehi1380/github-actions-cheat-sheet?style=flat" /> <a href="https://github.com/alisalehi1380/github-actions-cheat-sheet">GitHub Actions Cheat Sheet </a>(برگهٔ تقلب گیت‌هاب اکشنز)
 
 </div>
 
